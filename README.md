@@ -12,7 +12,7 @@ características:
 
 El proyecto se puede dividir en tres fases:
 
-- Fase I: en esta parte del desarrollo se comprueba el funcionamiento de los sensores, se desarrolla
+*Fase I*: en esta parte del desarrollo se comprueba el funcionamiento de los sensores, se desarrolla
 el código en el entorno de Arduino. Se opta usar el protocolo MQTT para la transmisión de mensajes
 haciendo uso de la arquitectura publicación-suscripción. Se elige Node-RED para crear una interfaz
 gráfica sencilla que muestre las mediciones de los sensores en dispositivos móviles o computadoras.
@@ -22,12 +22,12 @@ Se eligió una Raspberry Pi para alojar el broker MQTT y Node-RED debido a sus c
 - procesador potente
 - RAM suficiente para ejecutar las aplicaciones
 
-- Fase II: la segunda parte del proyecto consiste en el diseño de una pcb que integre ambos sensores
+*Fase II*: la segunda parte del proyecto consiste en el diseño de una pcb que integre ambos sensores
 y el microcontrolador. En el diseño de la pcb se ha tenido en cuenta la colocación de los componentes,
 el enrutamiento de las pistas para una comunicación estable entre el microcontrolador y los sensores.
 Una vez diseñada la pcb se procede a la fabricación del prototipo por parte del técnico de laboratorio
 de la Universidad y finalmente se realiza la soldadura de los componentes.
 
-- Fase III: en la última etapa del proyecto se llevó a cabo una serie de pruebas para verificar y validar
+*Fase III*: en la última etapa del proyecto se llevó a cabo una serie de pruebas para verificar y validar
 el comportamiento esperado del prototipo. Estas pruebas fueron fundamentales para asegurar el
 correcto funcionamiento del proyecto y para identificar posibles mejoras.
