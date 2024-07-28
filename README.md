@@ -31,3 +31,9 @@ de la Universidad y finalmente se realiza la soldadura de los componentes.
 *Fase III*: en la última etapa del proyecto se llevó a cabo una serie de pruebas para verificar y validar
 el comportamiento esperado del prototipo. Estas pruebas fueron fundamentales para asegurar el
 correcto funcionamiento del proyecto y para identificar posibles mejoras.
+
+### Prototipo final
+![prototipo](https://github.com/user-attachments/assets/3018f268-97ee-446d-a252-22da0eaa0304)
+
+### GUI
+![gui](https://github.com/user-attachments/assets/5a767915-d762-4de6-bc13-f7a91e7f4cf1)
